@@ -1,0 +1,23 @@
+/* Write some CSS below */
+body{
+	background-color: gray;
+	font-family: Times,
+	font-size: 15;
+}
+h1 {
+	color: red
+	font-size: 10;
+	font-family: sans-serif;
+}/* Write some CSS below */
+
+div{
+	color: black;
+	width: 40;
+	height: 50;
+	background-size: 200;
+	background-color: white;
+}
+h2{
+	color: green
+	font-size:15;
+	font-family: roboto;
